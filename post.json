@@ -1,10 +1,12 @@
-{
-    "post1": {
+[
+    {
         "id": "1",
-        "title": "Post"
+        "title": "How to post",
+        "content": "You can posting on the blog by ..."
     },
-    "post2": {
+    {
         "id": "2",
-        "title": "post 2"
+        "title": "Posting on the blog",
+        "content": "This content will be public"
     }
-}
+]
