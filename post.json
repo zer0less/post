@@ -1,1 +1,10 @@
-"post1": "title"
+{
+    "post1": {
+        "id": "1",
+        "title": "Post"
+    },
+    "post2": {
+        "id": "2",
+        "title": "post 2"
+    }
+}
