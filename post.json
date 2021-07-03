@@ -1,12 +1,10 @@
 [
     {
-        "id": "1",
         "title": "How to post",
-        "content": "You can posting on the blog by ..."
+        "subtitle": "How to"
     },
     {
-        "id": "2",
         "title": "Posting on the blog",
-        "content": "This content will be public"
+        "subtitle": "Post"
     }
 ]
